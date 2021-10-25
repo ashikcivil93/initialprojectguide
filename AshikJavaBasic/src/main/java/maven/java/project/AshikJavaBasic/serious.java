@@ -23,11 +23,9 @@ public class serious {
        }
        while(number<=1500);
 	
-  for
-  
-  (number=1000;number<2000;number++)
+  for(number=1000;number<2000;number++)
   {
-  System.out.println(number);
+	  System.out.println(number);
   }
 	}
 }
